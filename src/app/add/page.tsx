@@ -2,9 +2,7 @@ import NavBar from "@/app/components/NavBar";
 
 const page = () => (
   <div>
-     <main>
-		    <h1>New Bookmark Form</h1>
-		 </main>   
+    <h1>New Bookmark Form</h1>
   </div>
 );
 
